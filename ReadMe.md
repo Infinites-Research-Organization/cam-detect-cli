@@ -108,6 +108,7 @@ This tool is for **educational and authorized security auditing purposes only**.
 5. **UI:** The main thread polls the CSV file, processes the data, calculates distances, and updates the `rich` Live table.
 6. **Cleanup:** On `Ctrl+C`, the script restores the original interface state and restarts your network services.
 
+---
 
 ## Known Bugs
 Terminal UI is Buggy as hecc :(
