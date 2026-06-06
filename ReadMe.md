@@ -111,7 +111,7 @@ This tool is for **educational and authorized security auditing purposes only**.
 ---
 
 ## Known Bugs
-Terminal UI is Buggy as hecc :(
+* **Terminal UI is Buggy as hecc :(**
 
 ## Creds, Add your username/other info when Contributing :)
 OpLumina
