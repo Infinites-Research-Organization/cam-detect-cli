@@ -109,5 +109,8 @@ This tool is for **educational and authorized security auditing purposes only**.
 6. **Cleanup:** On `Ctrl+C`, the script restores the original interface state and restarts your network services.
 
 
+## Known Bugs
+Terminal UI is Buggy as hecc :(
+
 ## Creds, Add your username/other info when Contributing :)
 OpLumina
