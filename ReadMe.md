@@ -12,6 +12,7 @@ A terminal-based WiFi monitoring tool that automates monitor mode, channel hoppi
 * **Target Filtering:** Filter results by a specific list of MAC addresses or OUI prefixes provided via CSV.
 * **Proximity Estimation:** Estimates physical distance based on RSSI and frequency.
 * **Clean UI:** Uses `rich` for a responsive, clean terminal dashboard.
+* **Camera-Mac-Address Database (WIP):** A Camera Detection Database for major companies like Ring, Hikivision, etc you can pass with the --find flag
 
 ---
 
